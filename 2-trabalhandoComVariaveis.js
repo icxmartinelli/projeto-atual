@@ -6,3 +6,4 @@ console.log("Trabalhando com Variáveis");
 // JS não é fortemente tipado
 // não tem regra nenhuma nisso, Deus...
 // é possível declarar com 'let' ou 'const';
+// declarar variável sem o tipo não é boa prática;
